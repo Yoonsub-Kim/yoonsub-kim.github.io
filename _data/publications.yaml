@@ -3,7 +3,7 @@ papers:
   - title: "DEGNN: Dual Experts Graph Neural Network Handling Both Edge and Node Feature Noise"
     authors: "Tai Hasegawa, <b>Sukwon Yun</b>, Xin Liu, Yin Jun Phua, Tsuyoshi Murata"
     venue: "PAKDD'24: Pacific-Asia Conference on Knowledge Discovery and Data Mining"
-    paper_pdf: "/assets/publications/2023_embedding_societal_values/paper.pdf"
+    paper_pdf: "/assets/publications/2024_degnn/Paper.pdf"
     year: "2024"
 
   - title: "MUSE: Music Recommender System with Shuffle Play Recommendation Enhancement"
