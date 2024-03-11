@@ -3,7 +3,7 @@ papers:
   - title: "DEGNN: Dual Experts Graph Neural Network Handling Both Edge and Node Feature Noise"
     authors: "Tai Hasegawa, <b>Sukwon Yun</b>, Xin Liu, Yin Jun Phua, Tsuyoshi Murata"
     venue: "PAKDD'24: Pacific-Asia Conference on Knowledge Discovery and Data Mining"
-    paper_pdf: "/assets/publications/2024_degnn/Paper.pdf"
+    paper_pdf: "/assets/publications/2024_degnn/paper.pdf"
     year: "2024"
 
   - title: "MUSE: Music Recommender System with Shuffle Play Recommendation Enhancement"
@@ -25,6 +25,7 @@ papers:
     venue: "ICMLW'23: ICML Workshop on Computational Biology <span style='color: red; font-weight: bold;'>(Best Paper Award)</span>"
     paper_pdf: "https://arxiv.org/abs/2307.10037"
     code: "https://github.com/junseok0207/scfp"
+    slides: "/assets/publications/2023_scfp/slides.pdf"
     year: "2023"
 
   - title: "MELT: Mutual Enhancement of Long-Tailed User and Item for Sequential Recommendation"
