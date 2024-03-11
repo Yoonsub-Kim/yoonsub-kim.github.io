@@ -101,8 +101,7 @@ title: Home
 
   <ul class="tab-nav">
     <li><div class="button active" data-ref="#papers-2024">2024</div></li>
-    <li><div class="button" data-ref="#papers-2023">2023</div></li>
-    <li><div class="button" data-ref="#papers-2022">2022</div></li>
+    <li><div class="button" data-ref="#papers-2023">2023-Pat</div></li>
     <li><div class="button" data-ref="#papers-all">All</div></li>
   </ul>
 
@@ -154,43 +153,6 @@ title: Home
            <div class="paper-buttons">
             {% if paper.paper_pdf %}
               <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
-            {% endif %}
-
-            {% if paper.slides %}
-              <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-            {% endif %}
-
-            {% if paper.poster %}
-              <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-            {% endif %}
-
-            {% if paper.video %}
-              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
-            {% endif %}
-
-            {% if paper.code %}
-              <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
-            {% endif %}
-
-            {% if paper.data %}
-              <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
-            {% endif %}
-
-          </div>
-        </div>
-      {% endfor %}
-    </div>
-
-    <div class="tab-pane" id="papers-2022">
-      {% assign papers2022 = site.data.publications.papers | where: "year", "2022" %}
-      {% for paper in papers2022 %}
-        <div class="paper">
-          <p class="title"><b>{{ paper.title }}</b></p>
-          <p>{{ paper.authors }}</p>
-          <p><i>{{ paper.venue }}</i></p>
-           <div class="paper-buttons">
-            {% if paper.paper_pdf %}
-            <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
             {% endif %}
 
             {% if paper.slides %}
