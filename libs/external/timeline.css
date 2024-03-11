@@ -95,8 +95,17 @@
   margin-top: -10px;
   background: #fff;
   border-radius: 10px;
-  border: 4px solid rgb(51, 0, 111);
+  border: 4px solid rgb(80, 80, 80); /* Color: Marker */
   z-index: 10;
+}
+
+.time-wrapper {
+  display: inline;
+  
+  line-height: 1em;
+  font-size: 0.66666em;
+  color: rgb(80, 80, 80); /* Color: Date */
+  vertical-align: middle;
 }
 
 .direction-r .flag:before {
@@ -129,15 +138,6 @@
   border-right-color: rgb(248,248,248);
   border-width: 8px;
   pointer-events: none;
-}
-
-.time-wrapper {
-  display: inline;
-  
-  line-height: 1em;
-  font-size: 0.66666em;
-  color: rgb(51, 0, 111);
-  vertical-align: middle;
 }
 
 .direction-l .time-wrapper {
@@ -245,7 +245,7 @@
     margin-left: -9px;
     background: #fff;
     border-radius: 10px;
-    border: 4px solid rgb(51, 0, 111);
+    border: 4px solid rgb(129, 127, 127);
     z-index: 10;
   }
 
