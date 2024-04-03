@@ -1,5 +1,12 @@
 papers:
 
+  - title: "Noise Robust Graph Learning under Feature-Dependent Graph-Noise"
+    authors: "Yeonjun In, Kanghoon Yoon, <b>Sukwon Yun</b>, Kibum Kim, Sungchul Kim, Chanyoung Park"
+    venue: "WWW 2024 Workshop on Data-centric Artificial Intelligence (DCAI) <span style='color: red; font-weight: bold;'>(Oral)</span>"
+    paper_pdf: "https://sukwonyun.github.io/"
+    year: "2024"
+
+
   - title: "DEGNN: Dual Experts Graph Neural Network Handling Both Edge and Node Feature Noise"
     authors: "Tai Hasegawa, <b>Sukwon Yun</b>, Xin Liu, Yin Jun Phua, Tsuyoshi Murata"
     venue: "PAKDD'24: Pacific-Asia Conference on Knowledge Discovery and Data Mining"
