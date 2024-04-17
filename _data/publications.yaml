@@ -1,6 +1,6 @@
 papers:
   - title: "Single-cell RNA Sequencing Data Imputation Using Bi-level Feature Propagation"
-    authors: "Junseok Lee*, <b>Sukwon Yun*</b>, Tianlong Chen, Manolis Kellis, Chanyoung Park"
+    authors: "Junseok Lee*, <b>Sukwon Yun*</b>, Yeongmin Kim, Tianlong Chen, Manolis Kellis, Chanyoung Park"
     venue: "Briefings in Bioinformatics 2024"
     paper_pdf: "https://sukwonyun.github.io/"
     year: "2024"
