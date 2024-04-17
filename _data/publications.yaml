@@ -1,4 +1,9 @@
 papers:
+  - title: "Single-cell RNA Sequencing Data Imputation Using Bi-level Feature Propagation"
+    authors: "Junseok Lee*, <b>Sukwon Yun*</b>, Tianlong Chen, Manolis Kellis, Chanyoung Park"
+    venue: "Briefings in Bioinformatics 2024"
+    paper_pdf: "https://sukwonyun.github.io/"
+    year: "2024"
 
   - title: "Noise Robust Graph Learning under Feature-Dependent Graph-Noise"
     authors: "Yeonjun In, Kanghoon Yoon, <b>Sukwon Yun</b>, Kibum Kim, Sungchul Kim, Chanyoung Park"
@@ -6,11 +11,11 @@ papers:
     paper_pdf: "https://sukwonyun.github.io/"
     year: "2024"
 
-
   - title: "DEGNN: Dual Experts Graph Neural Network Handling Both Edge and Node Feature Noise"
     authors: "Tai Hasegawa, <b>Sukwon Yun</b>, Xin Liu, Yin Jun Phua, Tsuyoshi Murata"
     venue: "PAKDD'24: Pacific-Asia Conference on Knowledge Discovery and Data Mining"
-    paper_pdf: "https://sukwonyun.github.io/"
+    paper_pdf: "https://arxiv.org/abs/2404.09207"
+    code: "https://github.com/TaiHasegawa/DEGNN"
     year: "2024"
 
   - title: "MUSE: Music Recommender System with Shuffle Play Recommendation Enhancement"
