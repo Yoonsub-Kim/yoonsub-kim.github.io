@@ -1,4 +1,10 @@
 papers:
+  - title: "Multiplexed Immunofluorescence Image Analysis through an Efficient Multiplex Network"
+    authors: "<b>Sukwon Yun</b>, Jie Peng, Alexandro Trevino, Chanyoung Park, Tianlong Chen"
+    venue: "ECCV'24: European Conference on Computer Vision"
+    paper_pdf: "https://sukwonyun.github.io/"
+    year: "2024"
+
   - title: "Single-cell RNA Sequencing Data Imputation Using Bi-level Feature Propagation"
     authors: "Junseok Lee*, <b>Sukwon Yun*</b>, Yeongmin Kim, Tianlong Chen, Manolis Kellis, Chanyoung Park"
     venue: "Briefings in Bioinformatics 2024"
