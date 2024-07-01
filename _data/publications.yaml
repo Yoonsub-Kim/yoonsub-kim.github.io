@@ -8,7 +8,8 @@ papers:
   - title: "Single-cell RNA Sequencing Data Imputation Using Bi-level Feature Propagation"
     authors: "Junseok Lee*, <b>Sukwon Yun*</b>, Yeongmin Kim, Tianlong Chen, Manolis Kellis, Chanyoung Park"
     venue: "Briefings in Bioinformatics 2024"
-    paper_pdf: "https://sukwonyun.github.io/"
+    paper_pdf: "https://academic.oup.com/bib/article/25/3/bbae209/7665119"
+    code: "https://github.com/Junseok0207/scBFP"
     year: "2024"
 
   - title: "Noise Robust Graph Learning under Feature-Dependent Graph-Noise"
