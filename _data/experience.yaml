@@ -5,6 +5,12 @@ experiences:
   subtitle: "Advisor: <a href='https://tianlong-chen.github.io/'  style='text-decoration: none;'>Prof. Tianlong Chen</a>"
   category: "work"
 
+- place: "MIT"
+  time: "Aug. 2023 - Jul. 2024"
+  title: "Research Intern in Kellis Lab."
+  subtitle: "Mentor: <a href='https://tianlong-chen.github.io/'  style='text-decoration: none;'>Dr. Tianlong Chen</a>, <a href='https://scholar.google.com/citations?user=Yk4VxGQAAAAJ&hl=en'  style='text-decoration: none;'>Dr. Zunpeng Liu</a>"
+  category: "work"
+
 - place: "KAIST"
   time: "Mar. 2021 - Aug. 2023"
   title: "M.S. in Industrial & Systems Engineering"
