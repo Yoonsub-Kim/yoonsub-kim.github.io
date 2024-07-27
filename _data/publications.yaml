@@ -1,8 +1,16 @@
 papers:
-  - title: "Multiplexed Immunofluorescence Image Analysis through an Efficient Multiplex Network"
+  - title: "Subgraph Federated Learning for Local Generalization"
+    authors: "Sungwon Kim, Yoonho Lee, Carl Yang, Yunhak Oh, Namkyeong Lee, <b>Sukwon Yun</b>, Junseok Lee, Sein Kim, Chanyoung Park"
+    venue: "KDD 2024 Workshop on Federated Learning for Data Mining and Graph Analytics (FedKDD) <span style='color: red; font-weight: bold;'>(Oral)</span>"
+    paper_pdf: "https://sukwonyun.github.io/"
+    # code: "https://github.com/UNITES-Lab/Mew"
+    year: "2024"
+
+  - title: "Mew: Multiplexed Immunofluorescence Image Analysis through an Efficient Multiplex Network"
     authors: "<b>Sukwon Yun</b>, Jie Peng, Alexandro Trevino, Chanyoung Park, Tianlong Chen"
     venue: "ECCV'24: European Conference on Computer Vision"
-    paper_pdf: "https://sukwonyun.github.io/"
+    paper_pdf: "https://arxiv.org/abs/2407.17857"
+    code: "https://github.com/UNITES-Lab/Mew"
     year: "2024"
 
   - title: "Single-cell RNA Sequencing Data Imputation Using Bi-level Feature Propagation"
