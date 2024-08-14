@@ -1,6 +1,6 @@
 papers:
   - title: "Subgraph Federated Learning for Local Generalization"
-    authors: "Sungwon Kim, Yoonho Lee, Carl Yang, Yunhak Oh, Namkyeong Lee, <b>Sukwon Yun</b>, Junseok Lee, Sein Kim, Chanyoung Park"
+    authors: "Sungwon Kim, Yoonho Lee, Yunhak Oh, Namkyeong Lee, <b>Sukwon Yun</b>, Junseok Lee, Sein Kim, Carl Yang, Chanyoung Park"
     venue: "KDD 2024 Workshop on Federated Learning for Data Mining and Graph Analytics (FedKDD) <span style='color: red; font-weight: bold;'>(Oral)</span>"
     paper_pdf: "https://sukwonyun.github.io/"
     # code: "https://github.com/UNITES-Lab/Mew"
