@@ -6,23 +6,22 @@ title: Home
 <div class="docs-section" id="bio">
   <h4>Bio</h4>
   <p>
-  I am a Ph.D. student in the 
+  I am currently pursuing a Ph.D. at the 
   <a href="https://sph.unc.edu/envr/environmental-sciences-and-engineering-home/" target="_blank">Department of Environmental Sciences and Engineering (ESE)</a> at the University of North Carolina Gillings School of Global Public Health, where I am advised by
   <a href="https://scholar.google.com/citations?user=XCUo8NsAAAAJ&hl=en" target="_blank">Prof. Barbara Turpin</a>.
   
-  Prior to UNC, I obtained my M.S. and B.S. at the
+  Before joining the Ph.D. program, I obtained my M.S. and B.S. at the
   <a href="https://www.korea.ac.kr/mbshome/mbs/university/index.do" target="_blank">Korea University</a>, advised by 
-  <a href="https://eco.korea.ac.kr/EnvChem" target="_blank">Prof. Jung-Hwan Kwon</a>. 
+  <a href="https://eco.korea.ac.kr/professor-main-menu/professor-detail?id=53" target="_blank">Prof. Jung-Hwan Kwon</a>. 
   
-  During my Master's, I was honored with the Best Paper Award at the ICML WCB 2023 and spent wonderful time in Tokyo as a visiting researcher at Tokyo Tech, working with
-  <a href="http://www.net.c.titech.ac.jp/murata.html" target="_blank">Prof. Tsuyoshi Murata</a> and, 
-  <a href="https://staff.aist.go.jp/xin.liu/" target="_blank">Dr. Xin Liu</a>.
+  During my Master's, I studied on the fate of hazardous chemicals in the environment, and I interned at the Korea Testing Laboratory (KTL), where I analyzed environmental pollutants.
+  After graduating, I conducted research at Samsung Electronics EHS/Infra Technology Research Center.
+  <!-- <a href="http://www.net.c.titech.ac.jp/murata.html" target="_blank">Prof. Tsuyoshi Murata</a> and, 
+  <a href="https://staff.aist.go.jp/xin.liu/" target="_blank">Dr. Xin Liu</a>. -->
 
   
   <p>
-  My current research intersts ile in <b>AI4Science</b> and <b>Efficient ML</b>.
-  Specifically, I am interested in (A) addressing the inductive bias of Graph Neural Networks (<u>GNNs</u>) and Large Language Models (<u>LLMs</u>) with their (B) application in the field of <u>Computational Biology</u>.
-  Additionally, I have recently been focusing on (C) building efficient <u>Sparse Mixture-of-Experts</u> in diverse scientific fields.
+  My current research focuses on the <b>sampling </b> and <b>analysis</b> of <b>PFAS</b> in the atmosphere, with the goal of evaluating the fate of PFAS in the air.
   </p> 
 
 </div>
@@ -95,17 +94,17 @@ title: Home
   <h4>Publications</h4>
 
   <p>Most recent publications on <a href="{{ site.data.main_info.google_scholar }}" target="_blank">Google Scholar</a>.<br/>
-  <sup><b>*</b></sup> indicates equal contribution.
+  <!-- <sup><b>*</b></sup> indicates equal contribution. -->
   </p>
 
   <ul class="tab-nav">
     <!-- <li><div class="button active" data-ref="#papers-2024">2024</div></li> -->
     <!-- <li><div class="button" data-ref="#papers-2023">2023-Past</div></li> -->
-    <li><div class="button" data-ref="#papers-all">All</div></li>
+    <li><div class="button active" data-ref="#papers-all">All</div></li>
   </ul>
 
   <div class="tab-content">
-    <div class="tab-pane active" id="papers-2024">
+    <!-- <div class="tab-pane active" id="papers-all">
       {% assign papers2024 = site.data.publications.papers | where: "year", "2024" %}
       {% for paper in papers2024 %}
         <div class="paper">
@@ -177,9 +176,9 @@ title: Home
           </div>
         </div>
       {% endfor %}
-    </div>
+    </div> -->
 
-    <div class="tab-pane" id="papers-all">
+    <div class="tab-pane active" id="papers-all">
       {% assign papersall = site.data.publications.papers %}
       {% for paper in papersall %}
         <div class="paper">
