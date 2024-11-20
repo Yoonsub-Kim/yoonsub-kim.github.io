@@ -1,4 +1,11 @@
 papers:
+  - title: "Optimization of surface filtration to enhance wafer uniformity by removing large particle in ceria slurry"
+    authors: "Seungjun Oh, Geumji Back, Sanghyeon Park, HunWook Lee, Heedo Seo, <b>Yoonsub Kim</b>, Taesung Kim"
+    venue: "Materials Science in Semiconductor Processing"
+    paper_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S136980012400636X"
+    # code: "https://github.com/UNITES-Lab/Mew"
+    year: "2024"
+
   - title: "Estimating the bioaccumulation potential of hydrophobic ultraviolet stabilizers using experimental partitioning properties"
     authors: "Anh T. Ngoc Do, <b>Yoonsub Kim</b>, Yeonjeong Ha, Jung-Hwan Kwon"
     venue: "International Journal of Environmental Research and Public Health"
