@@ -1,4 +1,11 @@
 papers:
+  - title: "Online iodide chemical ionization mass spectrometry (I-CIMS) enables occupational inhalation exposure assessment of 6:2 fluorotelomer alcohol (6:2 FTOH) emitted to air during floor waxing"
+    authors: "Michael J. Davern, Yufan Hu, Gabrielle V. West, <b>Yoonsub Kim</b>, Margot H. Francini, Glenn C. Morrison, Yue Zhang, Barbara J. Turpin, Jason D. Surratt"
+    venue: "Environmental Science & Technology Letters"
+    paper_pdf: "https://pubs.acs.org/doi/full/10.1021/acs.estlett.5c00258"
+    # code: "https://github.com/UNITES-Lab/Mew"
+    year: "2025"
+
   - title: "Optimization of surface filtration to enhance wafer uniformity by removing large particle in ceria slurry"
     authors: "Seungjun Oh, Geumji Back, Sanghyeon Park, HunWook Lee, Heedo Seo, <b>Yoonsub Kim</b>, Taesung Kim"
     venue: "Materials Science in Semiconductor Processing"
